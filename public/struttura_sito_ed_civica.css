@@ -1,0 +1,60 @@
+<style>
+body{
+	font-family: arial; 
+	background-color: #faebd7; 
+	color: #7c0a02;
+	}
+header{
+	margin: 0; 
+	padding: 40px; 
+	text-align: center; 
+	color: black; 
+	font-family: courier;
+	font-style: bold; 
+	background-image:url("bandiera_italiana.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	}
+nav{
+	background-color:#00bfff; 
+	font-family: arial;
+	color: black; 
+	padding: 4px
+	}
+nav li{
+	display: inline
+	}
+aside{
+	float: right; 
+	font-family: arial;
+	background-color: #add8e6;
+	width: 28%; 
+	height: 550px; 
+	padding: 3%
+	}
+section{
+	width: 78%; 
+	height: 550px; 
+	font-family: arial;
+	margin-left: 0; 
+	margin-right: 30%; 
+	padding: 3%; 
+	background-color: #e0ffff;
+	}
+footer{
+	background-color: #00bfff; 
+	font-family: arial;
+	color: white;
+	padding: 2%; 
+	text-align: center
+	}
+span{
+	font-style: bold;
+	}
+a:link{color: black}
+a:visited{color: black}
+a:hover{color: white}
+h2{
+	font-style: bold;
+	}
+</style>
